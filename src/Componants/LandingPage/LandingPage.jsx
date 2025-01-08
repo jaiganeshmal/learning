@@ -22,8 +22,7 @@ const Home = () => {
                         <div>
                             <select name='Change Theme' className='outline-none bg-transparent '>
                                 <option className=''>Light</option>
-                                <option className=''>Light</option>
-                                <option className=''>Light</option>
+                                <option className=''>Dark</option>
                             </select>
                         </div>
                     </div>

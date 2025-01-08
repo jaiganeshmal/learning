@@ -1,6 +1,6 @@
 import img1 from "../assets/home_Proj_img1.png"
 import img2 from "../assets/home_Proj_img2.png"
-
+// project 
 export let stack = [
     {
         id: '1',

@@ -22,7 +22,6 @@ let StoreProvider = ({ children }) => {
     let res = await axios.get(`https://dev.to/api/articles?username=${key}`)
     setArticles(res.data.slice(0,2))
   }
-  // medium post article 
 
   useEffect(()=>{
     fetchArticles()
